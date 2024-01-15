@@ -1,0 +1,1 @@
+alter table cars add (Car_Regno  VARCHAR(10));
